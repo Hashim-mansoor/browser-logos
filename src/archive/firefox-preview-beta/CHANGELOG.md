@@ -3,6 +3,27 @@
 Changelog
 =========
 
+1.0.11 (June 23, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`52a1d278da`](https://github.com/alrra/browser-logos/commit/52a1d278daf01ae4557a4307769e3fc972dda6ce)] - 📚 Fix broken links (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+1.0.10 (June 14, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`e32385ca21`](https://github.com/alrra/browser-logos/commit/e32385ca21463e92510540dcc8893455968bd204)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+1.0.9 (April 24, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`b9cb09de0f`](https://github.com/alrra/browser-logos/commit/b9cb09de0f3675af9724d25acd20d3a489968b2f)] - 🗜 Further losslessly optimize `firefox-preview-beta.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.8 (July 11, 2020)
 ---------------------
 

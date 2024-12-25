@@ -3,6 +3,20 @@
 Changelog
 =========
 
+1.0.9 (June 14, 2023)
+---------------------
+
+### Bug fixes / Improvements
+
+* [[`c6403aad89`](https://github.com/alrra/browser-logos/commit/c6403aad89c450b0401929863475a46bf03207e2)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+1.0.8 (April 24, 2023)
+----------------------
+
+### Bug fixes / Improvements
+
+* [[`19c7f5425f`](https://github.com/alrra/browser-logos/commit/19c7f5425f29dfc716207ed1263e0756dd2e591a)] - 🗜 Further losslessly optimize `firefox-developer-edition_57-70.svg` (by [`Cătălin`](https://github.com/alrra)).
+
 1.0.7 (September 27, 2020)
 --------------------------
 

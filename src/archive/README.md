@@ -249,6 +249,9 @@ Chrome
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>12-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>49-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -261,6 +264,11 @@ Chrome
             <td>
                 <a href="chrome_12-48">
                     <img width=150 src="chrome_12-48/chrome_12-48_256x256.png" alt="Chrome 12-48 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome_49-99">
+                    <img width=150 src="chrome_49-99/chrome_49-99_256x256.png" alt="Chrome 49-99 browser logo">
                 </a>
             </td>
         </tr>
@@ -276,6 +284,9 @@ Chrome Beta
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Beta<br>37-58<br></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Beta<br>59-99<br></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -283,6 +294,11 @@ Chrome Beta
             <td>
                 <a href="chrome-beta_37-58">
                     <img width=150 src="chrome-beta_37-58/chrome-beta_37-58_256x256.png" alt="Chrome Beta 37-58 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-beta_59-99">
+                    <img width=150 src="chrome-beta_59-99/chrome-beta_59-99_256x256.png" alt="Chrome Beta 59-99 browser logo">
                 </a>
             </td>
         </tr>
@@ -298,6 +314,9 @@ Chrome Canary
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome<br>Canary<br>19-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome#Pre-releases">Chrome<br>Canary<br>48-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -305,6 +324,11 @@ Chrome Canary
             <td>
                 <a href="chrome-canary_19-48">
                     <img width=150 src="chrome-canary_19-48/chrome-canary_19-48_256x256.png" alt="Chrome Canary 19-49 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-canary_49-99">
+                    <img width=150 src="chrome-canary_49-99/chrome-canary_49-99_256x256.png" alt="Chrome Canary 49-99 browser logo">
                 </a>
             </td>
         </tr>
@@ -320,6 +344,9 @@ Chrome Dev
             <th>
                 <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Dev<br>37-59<br></a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Google_Chrome">Chrome<br>Dev<br>60-99<br></a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -327,6 +354,11 @@ Chrome Dev
             <td>
                 <a href="chrome-dev_37-59">
                     <img width=150 src="chrome-dev_37-59/chrome-dev_37-59_256x256.png" alt="Chrome Dev 37-59 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-dev_60-99">
+                    <img width=150 src="chrome-dev_60-99/chrome-dev_60-99_256x256.png" alt="Chrome Dev 60-99 browser logo">
                 </a>
             </td>
         </tr>
@@ -375,6 +407,9 @@ Chromium
             <th>
                 <a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>12-48</a>
             </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Chromium_%28web_browser%29">Chromium<br>49-99</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -387,6 +422,11 @@ Chromium
             <td>
                 <a href="chromium_12-48">
                     <img width=150 src="chromium_12-48/chromium_12-48_256x256.png" alt="Chromium 12-48 browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chromium_49-99">
+                    <img width=150 src="chromium_49-99/chromium_49-99_256x256.png" alt="Chromium 49-99 browser logo">
                 </a>
             </td>
         </tr>
@@ -453,6 +493,28 @@ Cruz
             <td>
                 <a href="cruz">
                     <img width=150 src="cruz/cruz_256x256.png" alt="Cruz browser logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Deno
+----
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Deno_%28software%29">Deno 1</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="deno_1">
+                    <img width=150 src="deno_1/deno_1_256x256.png" alt="Deno 1 logo">
                 </a>
             </td>
         </tr>
@@ -960,7 +1022,11 @@ Firefox Lite
     <thead>
         <tr>
             <th>
-                <a href="https://en.wikipedia.org/wiki/Firefox#Versions">Firefox<br>Lite</a>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Lite">Firefox<br>Lite</a>
+                <a href="#notes"><code>*</code></a>
+            </th>
+            <th>
+                <a href="https://en.wikipedia.org/wiki/Firefox_Lite">Firefox<br>Lite</a>
                 <a href="#notes"><code>*</code></a>
             </th>
         </tr>
@@ -968,8 +1034,13 @@ Firefox Lite
     <tbody>
         <tr height=170>
             <td>
-                <a href="firefox-lite">
-                    <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
+                <a href="firefox-lite_1">
+                    <img width=150 src="firefox-lite_1/firefox-lite_1_256x256.png" alt="Firefox Lite browser logo">
+                </a>
+            </td>
+               <td>
+                <a href="firefox-lite_2">
+                    <img width=150 src="firefox-lite_2/firefox-lite_2_256x256.png" alt="Firefox Lite browser logo">
                 </a>
             </td>
         </tr>
@@ -1578,9 +1649,7 @@ Orca
 <table>
     <thead>
         <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Avant_Browser#History_and_development">Orca</a>
-            </th>
+            <th>Orca</th>
         </tr>
     </thead>
     <tbody>
@@ -1602,7 +1671,7 @@ Pale Moon
         <tr>
             <th>
                 <a href="https://en.wikipedia.org/wiki/Pale_Moon_%28web_browser%29">Pale Moon</a>
-                <a href="#note"><code>*</code></a>
+                <a href="#notes"><code>*</code></a>
             </th>
         </tr>
     </thead>
@@ -1646,7 +1715,7 @@ Puffin
     <thead>
         <tr>
             <th>
-                <a href="https://web.archive.org/web/20170/https://www.puffinbrowser.com/index.php">Puffin</a>
+                <a href="https://en.wikipedia.org/wiki/Puffin_Browser">Puffin</a>
                 <a href="#notes"><code>*</code></a>
             </th>
             </th>
@@ -1692,9 +1761,7 @@ rekonq
 <table>
     <thead>
         <tr>
-            <th>
-                <a href="https://en.wikipedia.org/wiki/Rekonq">rekonq</a>
-            </th>
+            <th>rekonq</th>
         </tr>
     </thead>
     <tbody>
@@ -1827,7 +1894,7 @@ Servo
     <tbody>
         <tr height=170>
             <td>
-                <a href="servo">
+                <a href="servo_1">
                     <img width=150 src="servo_1/servo_1_256x256.png" alt="Servo browser logo">
                 </a>
             </td>

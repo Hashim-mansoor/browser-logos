@@ -1,0 +1,15 @@
+{
+    "httpHeaders": [
+        {
+            "urls": ["https://help.github.com"],
+            "headers": {
+                "Accept-Encoding": "br, gzip, deflate"
+            }
+        }
+    ],
+    "ignorePatterns": [
+      { "pattern": "https:\/\/github\\.com\/[^\/]*\/browser-logos\/commit\/.*" }
+    ],
+    "retryCount": 5,
+    "retryOn429": true
+}

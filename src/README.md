@@ -180,6 +180,9 @@ Chrome
             <th>
                 <a href="https://www.google.com/intl/en/chrome/browser/canary.html">Chrome<br>Canary</a>
             </th>
+            <th>
+                <a href="https://googlechromelabs.github.io/chrome-for-testing/">Chrome<br>Test</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -202,6 +205,11 @@ Chrome
             <td>
                 <a href="chrome-canary">
                     <img width=150 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo">
+                </a>
+            </td>
+            <td>
+                <a href="chrome-test">
+                    <img width=150 src="chrome-test/chrome-test_256x256.png" alt="Chrome for Testing browser logo">
                 </a>
             </td>
         </tr>
@@ -259,7 +267,7 @@ Cốc Cốc
     <thead>
         <tr>
             <th>
-                <a href="https://coccoc.com/">Cốc Cốc</a>
+                <a href="https://en.wikipedia.org/wiki/C%E1%BB%91c_C%E1%BB%91c">Cốc Cốc</a>
             </th>
         </tr>
     </thead>
@@ -443,9 +451,6 @@ Firefox
                 <a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#beta">Firefox<br>Beta</a>
             </th>
             <th>
-                <a href="https://play.google.com/store/apps/details?id=org.mozilla.rocket">Firefox<br>Lite</a>
-            </th>
-            <th>
                 <a href="https://www.mozilla.org/en-US/firefox/channel/#developer">Firefox<br>Developer<br>Edition</a>
             </th>
             <th>
@@ -463,11 +468,6 @@ Firefox
             <td>
                 <a href="firefox-beta">
                     <img width=150 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo">
-                </a>
-            </td>
-            <td>
-                <a href="firefox-lite">
-                   <img width=150 src="firefox-lite/firefox-lite_256x256.png" alt="Firefox Lite browser logo">
                 </a>
             </td>
             <td>

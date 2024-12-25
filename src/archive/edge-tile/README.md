@@ -5,8 +5,8 @@ Microsoft Edge tile
 <table>
     <tr height=240>
         <td>
-            <a href="https://github.com/alrra/browser-logos/tree/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/edge-tile">
-                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
+            <a href="https://github.com/alrra/browser-logos/tree/52a1d278daf01ae4557a4307769e3fc972dda6ce/src/archive/edge-tile">
+                <img width=230 src="https://raw.githubusercontent.com/alrra/browser-logos/52a1d278daf01ae4557a4307769e3fc972dda6ce/src/archive/edge-tile/edge-tile.svg?sanitize=true" alt="Microsoft Edge tile browser logo">
             </a>
         </td>
     </tr>
